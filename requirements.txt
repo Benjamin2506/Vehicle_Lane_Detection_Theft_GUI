@@ -1,0 +1,10 @@
+cv2
+pandas
+matplotlib
+requests
+beautifulsoup4
+Flask
+numpy
+keras
+tensorflow
+lxml

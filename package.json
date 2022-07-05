@@ -1,0 +1,24 @@
+{
+  "name": "Vehicle_Tracking_and_Theft_Detection_System",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  },
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "engine": "^1.0.0",
+    "express": "^4.17.1",
+    "jquery": "^3.5.0",
+    "minimist": "^1.2.5",
+    "node-opencv": "0.0.2-security",
+    "python": "0.0.4",
+    "python-shell": "^1.0.8",
+    "shell": "^0.5.0"
+  }
+}

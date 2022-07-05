@@ -7,4 +7,11 @@ Vehicle Theft and Lane Detection with UI
 <br><b>UI will launch in few seconds</b></br>
 </br>
 <h2>Project Screenshots:</h2>
-<br><image src="https://5.imimg.com/data5/SELLER/Default/2020/10/PX/KF/AW/20193325/ink-pen-500x500.jpg"> </image></br>
+<h4>Main Interface:</h4>
+<br><image src="https://github.com/Benjamin2506/Vehicle_Lane_Detection_Theft_GUI/blob/main/images/UI.JPG"> </image></br>
+<h4>Lane Detection Interface:</h4>
+<br><image src="https://github.com/Benjamin2506/Vehicle_Lane_Detection_Theft_GUI/blob/main/images/UI.JPG"> </image></br>
+<h4>License Plate Detection & Recognition Interface:</h4>
+<br><image src="https://github.com/Benjamin2506/Vehicle_Lane_Detection_Theft_GUI/blob/main/images/UI.JPG"> </image></br>
+<h4>Theft Tracking Data Interface:</h4>
+<br><image src="https://github.com/Benjamin2506/Vehicle_Lane_Detection_Theft_GUI/blob/main/images/UI.JPG"> </image></br>
